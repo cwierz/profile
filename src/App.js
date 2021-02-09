@@ -9,7 +9,6 @@ function App() {
           Hi Jesse pls don't be mad at me thank u
         </p>
         <img src={logo} className="App-logo" alt="logo" />
-        <img src="pic.jpeg" alt="pic"/>
       </header>
       <header className="App-subheader">
       <p>
