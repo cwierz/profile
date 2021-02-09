@@ -12,6 +12,9 @@ function App() {
       </header>
       <header className="App-subheader">
       <p>
+        do u like my pink website?
+      </p>
+      <p>
         I'm still upset u gave me an F
       </p>
     </header>
