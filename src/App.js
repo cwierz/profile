@@ -6,17 +6,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hi Jesse pls don't me mad at me thank u
+          Hi Jesse pls don't be mad at me thank u
         </p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <header className="App-subheader">
       <p>
-        how dare u give me an F
+        I'm still upset u gave me an F
       </p>
     </header>
     </div>
-
   );
 }
 
